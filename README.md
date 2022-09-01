@@ -1,2 +1,2 @@
-[Patika.dev](https://app.patika.dev/rmysabsrn)
+[Patika linki](https://app.patika.dev/rmysabsrn)
 
