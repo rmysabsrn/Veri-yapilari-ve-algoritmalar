@@ -8,7 +8,9 @@ Root 7'dir. 7 sayısının solunda 7'den küçük sayılar , sağında ise 7'den
 
 Root 7 aldığımızda:
 -5 sayısı 7 sayısından küçüktür bu durumda 7 sayısının solunda yer alacaktır.
+
 -1 sayısı 7 ve 5 sayısından küçüktür bu durumda sol tarafta yer alacaktır.
+
 -8 sayısı 7 sayısından büyüktür bu durumda 8 sayısı 7 sayısının sağında yer alacaktır.
 -3 sayısı 7 sayısından küçüktür ve 7 sayısının solunda yer alacaktır.
 -3 sayısı 5 sayısından da küçük olduğundan 5 sayısının da solunda yer alacaktır.
