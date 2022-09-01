@@ -1,1 +1,2 @@
-"# Veri-Yap-lar-ve-Algoritmalar" 
+[Patika.dev](https://app.patika.dev/rmysabsrn)
+
