@@ -32,4 +32,4 @@ Görsel olarak:
       / \
      2   4 
 
-     
+Bu şekilde ifade edilebilir.
