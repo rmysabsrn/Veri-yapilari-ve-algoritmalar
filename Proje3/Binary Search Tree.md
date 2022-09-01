@@ -18,7 +18,7 @@ Root 7 aldığımızda:
 9 sayısı 7 ve 8 sayısından büyüktür bu yüzden sağ tarafta yer alacaktır.
 4 sayısı 7 ve 5 sayılarından küçüktür 7 ve 5'in solunda, 1 ve 3'ün sağında yer alacaktır.
 2 sayısı ise son olarak 7 ve 5 sayısının solunda 1 sayısının sağında ve 3 sayısının solunda yer alacaktır.
-
+ 
 Görsel olarak:
 
 
